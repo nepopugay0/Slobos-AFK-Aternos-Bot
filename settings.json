@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "bbubles",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "nepopugay.aternos.me",
     "port": 22433,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
