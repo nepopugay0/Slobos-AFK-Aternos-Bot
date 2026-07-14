@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nepopugay.aternos.me",
+    "ip": "boafish.aternos.host",
     "port": 22433,
     "version": "",
     "try-creative": false
